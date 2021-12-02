@@ -28,6 +28,29 @@ Strength : Gives experience of working with ATmega328 microcontroller and do sim
 
 Weakness : Requires handson experience about Embedded programming and good knowlege about pin connection of Atmega 328 microcontroller.
 
+
+
+
+## Behavioural Diagrams
+
+<img width="627" alt="DCMOTOR" src="https://user-images.githubusercontent.com/65439755/144383337-87766168-cded-47f1-bcdf-aa79b7980447.PNG">
+
+
+
+## Block Diagrams
+
+## Simulations
+
+<img width="636" alt="SIMUL" src="https://user-images.githubusercontent.com/65439755/144383892-00905ce4-4336-4a95-aaa5-62eb28a10bfd.PNG">
+
+
+## Bill of Materils
+Circuit: DCMotor.simu
+
+DcMotor-1 : DcMotor 100 Ω
+Switch-3 : Switch   
+atmega328-2 : atmega328   
+
 ## 4W's and 1'H
 # 4W's
 
