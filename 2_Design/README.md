@@ -1,5 +1,4 @@
 ## Design
-System to be implemented is represnted in pictorial form
 
 ## Structural Diagrams
 
@@ -16,4 +15,12 @@ System to be implemented is represnted in pictorial form
 
 ## Simulations
 
+<img width="636" alt="SIMUL" src="https://user-images.githubusercontent.com/65439755/144383892-00905ce4-4336-4a95-aaa5-62eb28a10bfd.PNG">
+
+
 ## Bill of Materils
+Circuit: DCMotor.simu
+
+DcMotor-1 : DcMotor 100 Ω
+Switch-3 : Switch   
+atmega328-2 : atmega328   
